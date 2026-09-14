@@ -1,0 +1,6 @@
+{
+  "name": "matchday-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MATCHDAY 사이트를 위한 api-sports.io 키 숨김 프록시 (Vercel Serverless Functions)"
+}
